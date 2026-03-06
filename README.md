@@ -1,16 +1,17 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Divyansh%20Gupta&fontSize=40)
 
-<!--
-**Dyg-collab/Dyg-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Divyansh
 
-Here are some ideas to get you started:
+🎓 IIT BHU Student  
+💻 Competitive Programmer  
+🌐 Learning Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F72E&lines=IIT+BHU+Student;Competitive+Programmer;Learning+Web+Development)](https://git.io/typing-svg)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyg-collab&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dyg-collab&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyg-collab&layout=compact&theme=tokyonight)
