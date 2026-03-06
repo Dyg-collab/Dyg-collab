@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Divyansh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Developer%20%7C%20Problem%20Solver&descAlignY=70)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,50:243B55,100:0F2027&text=Divyansh%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=divyanshgupta495@gmail.com&descAlignY=72)
 
 # Hi — I'm Divyansh 👋
 
